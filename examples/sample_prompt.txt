@@ -1,0 +1,7 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+In triangle ABC, the measure of ∠B is 90°, BC = 32, and AC = 40.
+What is the value of sin C?
+
+### Response:

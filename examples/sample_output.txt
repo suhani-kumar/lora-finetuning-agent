@@ -1,0 +1,7 @@
+Example Output:
+
+Step 1: Identify triangle properties
+Step 2: Compute missing side
+Step 3: Apply sin formula
+
+Final Answer: 0.8

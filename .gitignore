@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.bin
+*.ckpt
+outputs/
+models/
+.env
+.ipynb_checkpoints/
